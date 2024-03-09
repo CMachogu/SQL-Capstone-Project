@@ -1,4 +1,3 @@
-# SQL-Capstone-Project
 # SQL Capstone Project: Airbnb Europe Database
 
 ## Overview
