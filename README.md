@@ -10,6 +10,7 @@ This repository contains a SQL Capstone Project focused on creating a database c
 4. `person_capacity`: The maximum number of guests the room can accommodate.
 5. `guest_satisfaction_overall`: Overall guest satisfaction rating for the listing.
 6. `bedrooms`: Number of bedrooms in the listing.
+
 I Used this query statement to create all five tables. Example,
 CREATE TABLE Athens(
 real_sum FLOAT,
