@@ -28,6 +28,7 @@ bedrooms INT
 | real_sum | room_type       | room_shared | person_capacity | guest_satisfaction_overall | bedrooms |
 |----------|-----------------|-------------|-----------------|----------------------------|----------|
 |          |                 |             |                 |                            |          |
+
 The following are inserted data for the cit of Paris.
 INSERT INTO Paris (real_sum, room_type, person_capacity, guest_satisfaction_overall, bedrooms) 
 VALUES
