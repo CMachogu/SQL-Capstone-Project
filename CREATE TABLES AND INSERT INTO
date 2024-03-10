@@ -54,7 +54,7 @@ INSERT INTO Rome (real_sum, room_type, room_shared, person_capacity, guest_satis
 (147.5229701, 'Privateroom', 'FALSE', 2, 94, 1),
 (186.5662918, 'Entirehomeapt', 'FALSE', 2, 96, 0),
 (184.4621607, 'Entirehomeapt', 'FALSE', 2, 86, 1),
-(179.7863138, 'Entire home/apt', 'FALSE', 4,91, 1),
+(179.7863138, 'Entirehomeapt', 'FALSE', 4,91, 1),
 (101.2320857, 'Privateroom', 'FALSE', 4, 92, 1),
 (426.4372384, 'Entirehomeapt', 'FALSE', 2, 100, 1),
 (182.3580296, 'Entirehomeapt', 'FALSE', 5, 87, 0),
